@@ -29,7 +29,7 @@ public class Main {
         if (personAge >= 7 && personAge <= 17) {
             System.out.println("Если человеку " + personAge + " лет, то ему нужно ходить в школу.");
         }
-        if (personAge >= 18 && personAge <= 24 ) {
+        if (personAge >= 18 && personAge <= 24) {
             System.out.println("Если человеку " + personAge + ", то его место в университете.");
         }
         if (personAge >= 25) {
